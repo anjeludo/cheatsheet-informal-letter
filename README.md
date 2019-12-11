@@ -24,10 +24,10 @@ B. Structure
 
 The reason why we write our letter.
 
-1) Greeting
+### 1) Greeting
     - Dear/Hi [first name]
 
-2) Opening Expressions:
+### 2) Opening Expressions:
 
     - How are you?
     - Thanks for your letter
@@ -42,7 +42,7 @@ The reason why we write our letter.
     - How’s everything going?
     - Do you remember the last time we saw each other?
 
-3) Talking about the reason we are writing:
+### 3) Talking about the reason we are writing:
 
     - I am writing because …
     - Good luck with …
@@ -55,21 +55,20 @@ The reason why we write our letter.
 
 ## II. Body
 
-4) Asking about something
+### 1) Asking about something
 
 	- Hi! how are things?
 	- How are you?
 	- How's it going?
 	- How's life?
 
-5) Refering to their news
+### 2) Refering to their news
 
 	- Great news about..
 	- I'm glad to hear that
 	- I'm sorry to hear about...
-
-
-6) Giving news
+	
+### 3) Giving news
 
 	- Listen, did I tell you about
 	- You'll never believe what
@@ -78,7 +77,7 @@ The reason why we write our letter.
 	- I thought you might be interested in hearing that…
 	- Have you heard about…?
 
-7) to make suggestions and recommendations
+### 4) to make suggestions and recommendations
 
 	- Why don't you..?
 	- Maybe you could..
@@ -87,26 +86,26 @@ The reason why we write our letter.
 	- Don’t forget to…
 
 
-9) To apologise
+### 5) To apologise
 
     - I’m writing to apologise for…
     - I’m really sorry about…
 
-10) Invitations
+### 6) Invitations
 
     - Would you like to…?
     - Let me know if you…
     - I was wondering if you would like to…
     - I’d be very grateful if you…
 
-10) Requests
+### 7) Requests
 
     - I’m writing to ask you for…
     - I wonder if…
     - I hope you don’t mind…
     - I was wondering if you…
 
-11) To thank or congratulate
+### 8) To thank or congratulate
 
     - I’m writing to thank you for…
     - Congratulations on…
@@ -117,7 +116,7 @@ The reason why we write our letter.
 
 ## III. Closing expressions
 
-1) Closing expressions
+### 1) Closing expressions
 
 	- Well I've to go now
 	- Give my love to
@@ -130,7 +129,7 @@ The reason why we write our letter.
 	- Keep in touch
 	- Talk to you soon
 
-2) Singing off
+### 2) Singing off
 	- Love,
 	- Lost of love,
 	- Yours,
