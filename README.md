@@ -1,10 +1,10 @@
-# cheatsheet-informal-letter
-Cheatsheet informal letter
+# Cheatsheet informal letter
+
 
 Informal letter expresion
 
 
-You must use:
+A. You must use:
 
 - Contraction (It isn’t funny at all.)
 - Short sentences (I’m really busy)
@@ -13,12 +13,12 @@ You must use:
 - Linkers (como as, but, so…)
 - Exclamations (Good luck!)
 
-Structure
+B. Structure
 
 - Three parts:
-	- Opening
-	- Body 
-	- Closing
+	- I. Opening
+	- II. Body 
+	- III.Closing
 
 ## I. Opening
 
@@ -41,6 +41,7 @@ Dear/Hi [first name]
     - I hope you are doing fine.
     - It was great to hear from you
     - How’s everything going?
+    - Do you remember the last time we saw each other?
 
 3) Talking about the reason we are writing:
 
