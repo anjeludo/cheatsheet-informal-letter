@@ -20,7 +20,7 @@ Structure
 	- Body 
 	- Closing
 
-I Opening
+## I. Opening
 
 The reason why we write our letter.
 
@@ -53,7 +53,7 @@ Dear/Hi [first name]
     - I would like to …
     - I am glad that things are going well with you these days.
 
-
+## II. Body
 
 4) Asking about something
 
@@ -115,7 +115,7 @@ Dear/Hi [first name]
 
 
 
-III. Closing expressions
+## III. Closing expressions
 
 1) Closing expressions
 
@@ -136,11 +136,12 @@ III. Closing expressions
 	- Yours,
 	- All the best
 
+## IV Extra
 
-8) Linker
+1) Linker
 as, because, while, but, and, so, althogh, by the way, anyway, perhaps, otherwise, finally
 
-9) Wildcard
-It's been ages since  I last worte
-Drop me a line to let me know...
-I've been run off my feet at work and haven't had a moment to my self
+2) Wildcard
+	- It's been ages since  I last worte
+	- Drop me a line to let me know...
+	- I've been run off my feet at work and haven't had a moment to my self
