@@ -142,3 +142,6 @@ as, because, while, but, and, so, althogh, by the way, anyway, perhaps, otherwis
 	- It's been ages since  I last worte
 	- Drop me a line to let me know...
 	- I've been run off my feet at work and haven't had a moment to my self
+
+## V Example
+![alt text](https://media.publit.io/file/B2FIRST/B2WRITING/B2EMAILINFORMAL/FCE-Writing-Informal-Email-Sample-Answer-1.png)
