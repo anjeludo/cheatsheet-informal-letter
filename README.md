@@ -111,9 +111,6 @@ The reason why we write our letter.
     - Congratulations on…
     - I really appreciated…
 
-
-
-
 ## III. Closing expressions
 
 ### 1) Closing expressions
@@ -128,6 +125,7 @@ The reason why we write our letter.
 	- Sincerely,
 	- Keep in touch
 	- Talk to you soon
+	- Give my regards to (your family,
 
 ### 2) Singing off
 	- Love,
