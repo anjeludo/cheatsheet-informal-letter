@@ -25,8 +25,7 @@ B. Structure
 The reason why we write our letter.
 
 1) Greeting
-
-Dear/Hi [first name]
+    - Dear/Hi [first name]
 
 2) Opening Expressions:
 
